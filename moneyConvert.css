@@ -1,0 +1,46 @@
+
+.main {
+    height: 500px;
+    width: 500px;;
+    background-color: rgb(30, 233, 111);
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+    border: 5px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.output output {
+    background-color:white;
+    border: 1px solid black;
+}
+
+header h1 {
+    font-size: 2rem;
+}
+
+.buttons {
+    padding: 20px;
+    display: inline-block;
+}
+
+a {
+  line-height: 500px;
+  color: black;
+  background: white;
+    
+}
+
+a:hover {
+    color: red;
+}
+
+.output {
+    padding: 20px;
+    font-size: 20px;
+}
+
+
+
+
+
